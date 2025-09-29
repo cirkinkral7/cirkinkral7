@@ -25,8 +25,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.gg/840244234015604777"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emir-ali-keskinkılıç-91075224a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/emirksknklc/?hl=tr"><img src="https://img.shields.io/badge/İnstagram-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
