@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="figma" width="50" height="50"/>
 </p>
 
 ---
@@ -27,5 +28,5 @@
 <p align="center">
   <a href="https://discord.gg/840244234015604777"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emir-ali-keskinkılıç-91075224a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/emirksknklc/?hl=tr"><img src="https://img.shields.io/badge/İnstagram-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=blue" /></a>
+  <a href="https://www.instagram.com/emirksknklc/?hl=tr"><img src="https://img.shields.io/badge/İnstagram-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=black" /></a>
 </p>
